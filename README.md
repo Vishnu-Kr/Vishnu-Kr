@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **ROS, Computer Vision, UI, Control System and Sensor Fusion**
 - 🤔  I’m looking for help with **ROS**
 - 📫 How to reach me **me20b2001@iiitdm.ac.in**
-- Find my Resume, if you have any opening for me. [Resume](https://drive.google.com/file/d/1YdEyX8E4ijKi7iQgJ82yUHu31aiOvBCU/view)
+- Find my Resume, if you have any opening for me. [Resume](https://drive.google.com/file/d/1d-TOz8hxpxxkHB2U-KwGlIRi5L9_Uobi/view)
 
 
 <h3 align="left">Languages and Tools:</h3>
