@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Vishnu Kumar
 
 <h3 align="center">A passionate Robotics Software Engineer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishnu-Kr&label=Profile%20views&color=0e75b6&style=flat" alt="Vishnu_kr" /> </p>
+
 
 - 🔭 I’m currently working on [Mars Rover](https://marsiiitdmk.netlify.app/)
 - 🌱 I’m currently learning **ROS, Computer Vision, UI, Control System and Sensor Fusion**
